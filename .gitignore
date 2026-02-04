@@ -1,0 +1,14 @@
+# Experience Exclusions
+people/
+impossible/
+impossibilities/
+hard_times/
+hungers/
+loneliness/
+weakness/
+failure/
+hope/
+
+# Project Defaults
+node_modules/
+.DS_Store
